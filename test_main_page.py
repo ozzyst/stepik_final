@@ -3,10 +3,6 @@ from .pages.login_page import LoginPage
 from .pages.cart_page import CartPage
 import pytest
 
-import time
-
-
-# pytest -v --tb=line --language=en test_main_page.py
 
 @pytest.mark.login_guest
 class TestLoginFromMainPage:
