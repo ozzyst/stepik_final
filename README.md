@@ -1,1 +1,1 @@
-# stepik_final
+# Finalize step
